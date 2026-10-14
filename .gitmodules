@@ -10,3 +10,6 @@
 [submodule "packages/k8s-platform-orchestrator"]
 	path = packages/k8s-platform-orchestrator
 	url = https://github.com/Chief-Strategist-J/k8s-platform-orchestrator.git
+[submodule "packages/code-engine"]
+	path = packages/code-engine
+	url = https://github.com/Chief-Strategist-J/code-engine.git
